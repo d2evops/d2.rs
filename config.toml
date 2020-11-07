@@ -1,4 +1,4 @@
-baseurl      = "d2.rs"
+baseurl      = ""
 title        = "d2"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
